@@ -1785,6 +1785,26 @@ body {
 .cid-rVf3MioFIP {
   background-image: url("../../../assets/images/timg-1-1080x717.jpg");
 }
+.cid-rW1Ik3cBHj {
+  background: #ffffff;
+}
+.cid-rW1Ik3cBHj .image-block {
+  margin: auto;
+  width: 100% !important;
+}
+.cid-rW1Ik3cBHj figcaption {
+  position: relative;
+}
+.cid-rW1Ik3cBHj figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-rW1Ik3cBHj .image-block {
+    width: 100% !important;
+  }
+}
 .cid-rVf67Geh4i {
   padding-top: 30px;
   padding-bottom: 30px;
@@ -2349,6 +2369,68 @@ body {
 }
 @media (max-width: 768px) {
   .cid-rVi9RScvrb .inner-container {
+    width: 100% !important;
+  }
+}
+.cid-rW05U19dmN {
+  background: #ffffff;
+  padding-top: 30px;
+  padding-bottom: 15px;
+}
+.cid-rW05U19dmN .image-block {
+  margin: auto;
+}
+.cid-rW05U19dmN figcaption {
+  position: relative;
+}
+.cid-rW05U19dmN figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-rW05U19dmN .image-block {
+    width: 100% !important;
+  }
+}
+.cid-rW0Zs6iaHg {
+  background: #ffffff;
+}
+.cid-rW0Zs6iaHg .image-block {
+  margin: auto;
+  width: 100% !important;
+}
+.cid-rW0Zs6iaHg figcaption {
+  position: relative;
+}
+.cid-rW0Zs6iaHg figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-rW0Zs6iaHg .image-block {
+    width: 100% !important;
+  }
+}
+.cid-rW1I8Cxmiw {
+  background: #ffffff;
+  padding-top: 30px;
+  padding-bottom: 15px;
+}
+.cid-rW1I8Cxmiw .image-block {
+  margin: auto;
+}
+.cid-rW1I8Cxmiw figcaption {
+  position: relative;
+}
+.cid-rW1I8Cxmiw figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-rW1I8Cxmiw .image-block {
     width: 100% !important;
   }
 }
