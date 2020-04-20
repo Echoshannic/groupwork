@@ -2223,15 +2223,6 @@ body {
   padding-bottom: 30px;
   background-image: url("../../../assets/images/timg-692x390.jpg");
 }
-.cid-rW3fIewk5O {
-  padding-top: 30px;
-  padding-bottom: 15px;
-  background-color: #efefef;
-}
-.cid-rW3fIewk5O .mbr-text,
-.cid-rW3fIewk5O blockquote {
-  color: #767676;
-}
 .cid-rW3gQjoBfn {
   padding-top: 15px;
   padding-bottom: 0px;
@@ -2300,6 +2291,36 @@ body {
   opacity: 0;
   -webkit-transition: 0.2s background ease-in-out;
   transition: 0.2s background ease-in-out;
+}
+.cid-rW3fIewk5O {
+  padding-top: 30px;
+  padding-bottom: 15px;
+  background-color: #efefef;
+}
+.cid-rW3fIewk5O .mbr-text,
+.cid-rW3fIewk5O blockquote {
+  color: #767676;
+}
+.cid-rWI6kHp0zo {
+  background: #efefef;
+  padding-top: 15px;
+  padding-bottom: 30px;
+}
+.cid-rWI6kHp0zo .image-block {
+  margin: auto;
+}
+.cid-rWI6kHp0zo figcaption {
+  position: relative;
+}
+.cid-rWI6kHp0zo figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-rWI6kHp0zo .image-block {
+    width: 100% !important;
+  }
 }
 .cid-rWI2S8YYmM {
   padding-top: 30px;
