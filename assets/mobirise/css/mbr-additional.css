@@ -2358,42 +2358,12 @@ body {
   background-image: url("../../../assets/images/timg-692x390.jpg");
 }
 .cid-rW39nec1eN {
-  padding-top: 15px;
+  padding-top: 30px;
   padding-bottom: 15px;
   background-color: #efefef;
 }
 .cid-rW39nec1eN .mbr-text,
 .cid-rW39nec1eN blockquote {
-  color: #767676;
-}
-.cid-rWI25xD7VS {
-  background: #efefef;
-  padding-top: 15px;
-  padding-bottom: 30px;
-}
-.cid-rWI25xD7VS .image-block {
-  margin: auto;
-}
-.cid-rWI25xD7VS figcaption {
-  position: relative;
-}
-.cid-rWI25xD7VS figcaption div {
-  position: absolute;
-  bottom: 0;
-  width: 100%;
-}
-@media (max-width: 768px) {
-  .cid-rWI25xD7VS .image-block {
-    width: 100% !important;
-  }
-}
-.cid-rWI1MQfTX6 {
-  padding-top: 0px;
-  padding-bottom: 0px;
-  background-color: #efefef;
-}
-.cid-rWI1MQfTX6 .mbr-text,
-.cid-rWI1MQfTX6 blockquote {
   color: #767676;
 }
 .cid-rW05U19dmN {
@@ -2458,7 +2428,7 @@ body {
 }
 .cid-rW3dbCr446 {
   padding-top: 45px;
-  padding-bottom: 90px;
+  padding-bottom: 60px;
   background-color: #efefef;
 }
 .cid-rW3dbCr446 h2 {
@@ -2524,6 +2494,51 @@ body {
 .cid-rW3dbCr446 H4 {
   text-align: left;
 }
+.cid-rWIab2Z5FD {
+  padding-top: 0px;
+  padding-bottom: 15px;
+  background-color: #efefef;
+}
+.cid-rWIab2Z5FD .mbr-text,
+.cid-rWIab2Z5FD blockquote {
+  color: #767676;
+}
+.cid-rWIab2Z5FD .mbr-text {
+  color: #767676;
+}
+.cid-rWIa8QgMHC {
+  background: #efefef;
+  padding-top: 15px;
+  padding-bottom: 30px;
+}
+.cid-rWIa8QgMHC .image-block {
+  margin: auto;
+}
+.cid-rWIa8QgMHC figcaption {
+  position: relative;
+}
+.cid-rWIa8QgMHC figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-rWIa8QgMHC .image-block {
+    width: 100% !important;
+  }
+}
+.cid-rWIa9CrkpW {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #efefef;
+}
+.cid-rWIa9CrkpW .mbr-text,
+.cid-rWIa9CrkpW blockquote {
+  color: #767676;
+}
+.cid-rWIa9CrkpW .mbr-text {
+  color: #767676;
+}
 .cid-rVi9RScvrb {
   padding-top: 30px;
   padding-bottom: 30px;
@@ -2546,15 +2561,6 @@ body {
   .cid-rVi9RScvrb .inner-container {
     width: 100% !important;
   }
-}
-.cid-rWHZZSUlOk {
-  padding-top: 15px;
-  padding-bottom: 0px;
-  background-color: #efefef;
-}
-.cid-rWHZZSUlOk .mbr-text,
-.cid-rWHZZSUlOk blockquote {
-  color: #767676;
 }
 .cid-rWI04rTm3q {
   background: #efefef;
